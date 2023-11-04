@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'sw-tz'
 
-TIME_ZONE = 'Tanzania/Dar_es_Salaam'
+TIME_ZONE = 'Africa/Dar_es_Salaam'
 
 USE_I18N = True
 
